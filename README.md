@@ -3,8 +3,8 @@
          height="45"
          width="45" /> My name is Shubham Patil</h1>
 =================================================================================================
-
-
+              
+                          
 
 Hlo 👋,
 I'm a versatile software engineer with nearly 3 years of experience and a Master's in Computer Science from the State University of New York. I thrive in dynamic, fast-paced settings, excelling both independently and as part of collaborative teams, especially in high-demand scenarios where quick turnarounds are standard. With a deep passion for technology, I've honed my skills across a diverse spectrum of programming languages and web technologies, making me a versatile and adaptable developer.
