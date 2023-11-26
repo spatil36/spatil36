@@ -3,15 +3,12 @@
          height="45"
          width="45" /> My name is Shubham Patil</h1>
 =================================================================================================
-              
-                          
 
+        
 Hlo 👋,
 I'm a versatile software engineer with nearly 3 years of experience and a Master's in Computer Science from the State University of New York. I thrive in dynamic, fast-paced settings, excelling both independently and as part of collaborative teams, especially in high-demand scenarios where quick turnarounds are standard. With a deep passion for technology, I've honed my skills across a diverse spectrum of programming languages and web technologies, making me a versatile and adaptable developer.
 
 Highly skilled in utilizing interpersonal abilities to foster collaborative relationships across diverse teams, effectively driving collective achievements. Proficient problem-solver adept at troubleshooting, swiftly adapting to new skills, technologies, and roles.
-
-I'm a passionate individual who loves frontend and javascript the language... Also, I have a keen interest in early-stage startups, venture capitalism, product ideation, growth and delivery.
 
 I am enthusiastic about the prospect of collaborating with like-minded professionals, exploring innovative projects, and contributing my skills to create impactful, industry-leading software solutions. My journey as a Software Developer is marked by a steadfast commitment to excellence, problem-solving, and a genuine love for crafting software that makes a difference.
 
